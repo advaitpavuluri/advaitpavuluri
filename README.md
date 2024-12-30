@@ -19,7 +19,7 @@ This profile showcases my personal projects and academic-related code (when perm
 
 ## courses
 - [Computer Science I](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18313)
-- [Data Structures](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=26840)
+- [Data Structures](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=26840) ‎‎ `// I TA this course now!`
 - [Foundations of Computer Science](https://catalog.rpi.edu/preview_course_nopop.php?catoid=22&coid=44425)
 - [Computer Organization](https://catalog.rpi.edu/preview_course_nopop.php?catoid=9&coid=14812)
 - [Multivariable Calculus and Matrix Algebra](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18945)
