@@ -6,9 +6,9 @@ private final String aboutMe;
 
 public Advait() {
     this.aboutMe =
-        "I'm a sophomore undergrad at Rensselaer Polytechnic Institute. I'm a coder in the Rensselaer Center " +
-        "for Open Source (RCOS) and also work in Dr. Uzma Mushtaque's lab, where I'm currently developing " +
-        "and analyzing ML models for online recommender systems.";
+        "I am a sophomore undergrad at Rensselaer Polytechnic Institute. I'm a coder in the Rensselaer Center " +
+        "for Open Source (RCOS) and also work in Dr. Uzma Mushtaque's lab, where I currently develop and " +
+        "analyze ML models for online recommender systems.";
 }
 ```
 
