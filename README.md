@@ -8,7 +8,7 @@ public Advait() {
     this.aboutMe =
         "I'm a sophomore undergrad at Rensselaer Polytechnic Institute. I'm a coder in the Rensselaer Center " +
         "for Open Source (RCOS) and also work in Dr. Uzma Mushtaque's lab, where I'm currently developing " +
-        "and analyzing ML models for online recommender systems."
+        "and analyzing ML models for online recommender systems.";
 }
 ```
 
