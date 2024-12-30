@@ -17,6 +17,17 @@ This profile showcases my personal projects and academic-related code (when perm
 ## portfolio
 - `// TODO`
 
+## courses
+- [Computer Science I](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18313)
+- [Data Structures](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=26840)
+- [Foundations of Computer Science](https://catalog.rpi.edu/preview_course_nopop.php?catoid=22&coid=44425)
+- [Computer Organization](https://catalog.rpi.edu/preview_course_nopop.php?catoid=9&coid=14812)
+- [Intro to Algorithms](https://catalog.rpi.edu/preview_course_nopop.php?catoid=8&coid=12992)
+- [Intro to RCOS](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73852)
+- [Principles of Software](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=28170)
+- [Multivariable Calculus and Matrix Algebra](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18945)
+- [Mathematical Foundations of Machine Learning](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73954)
+
 ## programming languages
 ```c
 std::cout <<
@@ -33,18 +44,3 @@ std::cout <<
 
 // & more! I love learning new languages.
 ```
-
-<!--
-**advaitpavuluri/advaitpavuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
