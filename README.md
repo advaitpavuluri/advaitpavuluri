@@ -14,8 +14,8 @@ public Advait() {
 
 This profile showcases my personal projects and academic-related code (when permitted). Email me at `advait@advait.fun` or connect with me on [LinkedIn](https://www.linkedin.com/in/advait-pavuluri/) to get in touch! ✌🏽
 
-## portfolio
-- `// TODO`
+## portfolio + résumé
+https://advait.sh
 
 ## courses
 - [Computer Science I](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18313)
