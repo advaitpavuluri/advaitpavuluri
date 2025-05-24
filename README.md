@@ -23,10 +23,10 @@ https://advait.sh
 - [Foundations of Computer Science](https://catalog.rpi.edu/preview_course_nopop.php?catoid=22&coid=44425)
 - [Computer Organization](https://catalog.rpi.edu/preview_course_nopop.php?catoid=9&coid=14812)
 - [Multivariable Calculus and Matrix Algebra](https://catalog.rpi.edu/preview_course_nopop.php?catoid=11&coid=18945)
-- [Intro to Algorithms](https://catalog.rpi.edu/preview_course_nopop.php?catoid=8&coid=12992) ⏳
-- [Principles of Software](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=28170) ⏳
-- [Intro to RCOS](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73852) ⏳
-- [Mathematical Foundations of Machine Learning](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73954) ⏳
+- [Intro to Algorithms](https://catalog.rpi.edu/preview_course_nopop.php?catoid=8&coid=12992) 
+- [Principles of Software](https://catalog.rpi.edu/preview_course_nopop.php?catoid=15&coid=28170) 
+- [Intro to RCOS](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73852)
+- [Mathematical Foundations of Machine Learning](https://catalog.rpi.edu/preview_course_nopop.php?catoid=30&coid=73954) 
 
 ## programming languages
 ```c
