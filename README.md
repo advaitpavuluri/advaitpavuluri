@@ -6,13 +6,13 @@ private final String aboutMe;
 
 public Advait() {
     this.aboutMe =
-        "I am a sophomore undergrad at Rensselaer Polytechnic Institute. I'm a coder in the Rensselaer Center " +
-        "for Open Source (RCOS) and also work in Dr. Uzma Mushtaque's lab, where I currently develop and " +
-        "analyze ML models for online recommender systems.";
+        "I am a junior undergrad at Rensselaer Polytechnic Institute. I'm a coder in the Rensselaer Center " +
+        "for Open Source (RCOS) and also work in Dr. Uzma Mushtaque's lab, where I'm currently working on a computational vision " +
+        "project involving improving the data collection pipeline for self-driving cars through JEPA.";
 }
 ```
 
-This profile showcases my personal projects and academic-related code (when permitted). Email me at `advait@advait.fun` or connect with me on [LinkedIn](https://www.linkedin.com/in/advait-pavuluri/) to get in touch! ✌🏽
+This profile showcases my personal projects and academic-related code (when permitted). Email me at `advait@advait.sh` or connect with me on [LinkedIn](https://www.linkedin.com/in/advait-pavuluri/) to get in touch! ✌🏽
 
 ## portfolio + résumé
 https://advait.sh
